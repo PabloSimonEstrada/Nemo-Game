@@ -27,12 +27,9 @@
 
 ## Setup and Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/PabloSimonEstrada/Nemo-Game.git
-   ```
-2. Open the project in Unity (Version 6.0.0 or higher).
-3. Press `Play` in the Unity Editor to start the game.
+1. Download the file .exe
+2. Open it in your computer.
+3. Everything is ready to play!
 
 ---
 
@@ -41,7 +38,7 @@
 1. Control the clownfish using the `Space` key to navigate through corals.
 2. Avoid hitting obstacles or going out of bounds to stay alive.
 3. The score increases for each successful pass through corals.
-4. When the game ends, use the **Restart** button to play again.
+
 
 ---
 
